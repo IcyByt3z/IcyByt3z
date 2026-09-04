@@ -1,4 +1,4 @@
-# Hi, I'm Jason (@IcyMint)
+# Hi, I'm Jason (@IcyByt3z)
 
 I'm a backend development student, learning one core concept at a time.
 

@@ -1,1 +1,14 @@
-# IcyMint
+# Hi, I'm Jason (@IcyMint)
+
+I'm a backend development student, learning one core concept at a time.
+
+While tech has always been a hidden thread in my life—stretching from my first Amiga in the 80s to digital video creation and website design—my background spans a BA and MA in Philosophy, dual MA in Education and English Lit, constructivist teaching, grad work in Clinical Mental Health counseling, a hypnotherapy practice, and deep system analysis. I'm focused on bringing that structural, systems-thinking perspective directly into building clean backend software infrastructure.
+
+## 🎓 Certifications
+
+- **Boot.dev — Introduction to Python** (Completed September 2026)  
+  Verification: [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/cecfe717-529d-4792-a9f6-5549c113910e.jpeg?v=1788500126)](https://www.boot.dev/certificates/cecfe717-529d-4792-a9f6-5549c113910e)
+
+## 🔭 What's Next
+
+Moving forward through Boot.dev's backend career path, focusing next on algorithms, data structures, and foundational computer science rules.

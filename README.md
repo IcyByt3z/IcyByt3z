@@ -9,6 +9,9 @@ While tech has always been a hidden thread in my life—stretching from my first
 - **Boot.dev — Introduction to Python** (Completed September 2026)  
   Verification: [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/cecfe717-529d-4792-a9f6-5549c113910e.jpeg?v=1788500126)](https://www.boot.dev/certificates/cecfe717-529d-4792-a9f6-5549c113910e)
 
+- **Boot.dev - Learn Linux** (Completed September 2026)
+  Verification: [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/67908064-6ce5-456f-a915-c70a6664e733.jpeg?v=1788673260)](https://www.boot.dev/certificates/67908064-6ce5-456f-a915-c70a6664e733)
+
 ## 🔭 What's Next
 
 Moving forward through Boot.dev's backend career path, focusing next on algorithms, data structures, and foundational computer science rules.

@@ -1,5 +1,5 @@
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/046bdcfb-6351-4c16-bc7c-417f77c15622/thumbnail" width="250">
+<p align="right">
+  <img src="https://api.boot.dev/v1/users/public/046bdcfb-6351-4c16-bc7c-417f77c15622/thumbnail" width="350">
 </p>
 
 

@@ -6,7 +6,7 @@
       <p>While tech has always been a hidden thread in my life—stretching from my first Amiga in the 80s to digital video creation and website design—my background spans a BA and MA in Philosophy, dual MA in Education and English Lit, constructivist teaching, grad work in Clinical Mental Health counseling, a hypnotherapy practice, and deep system analysis. I'm focused on bringing that structural, systems-thinking perspective directly into building clean backend software infrastructure.</p>
     </td>
     <td valign="top" align="center" width="50%">
-      <img src="https://api.boot.dev/v1/users/public/046bdcfb-6351-4c16-bc7c-417f77c15622/thumbnail" width="350px" style="border-radius: 50%;" alt="Jason's Avatar">
+      <img src="https://api.boot.dev/v1/users/public/046bdcfb-6351-4c16-bc7c-417f77c15622/thumbnail" width="450px" style="border-radius: 50%;" alt="Jason's Avatar">
     </td>
   </tr>
 </table>

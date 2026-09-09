@@ -19,5 +19,8 @@ Verification: [![Boot.dev Build a BookBot in Python certificate](https://qvault-
 **Boot.dev - Learn Git** (Completed September 2026)
 [![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/dd5e4c18-1453-4bd0-a573-5ad150706496.jpeg?v=1788809348)](https://www.boot.dev/certificates/dd5e4c18-1453-4bd0-a573-5ad150706496)
 
+**Boot.dev - Learn Object Oriented Programming in Python** (Completed September 2026)
+[![Boot.dev Learn Object Oriented Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ffd3cf77-e187-4170-a57a-bb7104c639a7.jpeg?v=1788938384)](https://www.boot.dev/certificates/ffd3cf77-e187-4170-a57a-bb7104c639a7)
+
 ## 🔭 What's Next
 Moving forward through Boot.dev's backend career path, focusing next on algorithms, data structures, and foundational computer science rules.

@@ -25,6 +25,9 @@ Verification: [![Boot.dev Build a BookBot in Python certificate](https://qvault-
 **Boot.dev - Build Asteroids using Python and Pygame** (Completed September 2026)
 [![Boot.dev Build Asteroids using Python and Pygame certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c4adaf93-711f-472a-8f41-862e6d93fa64.jpeg?v=1789025028)](https://www.boot.dev/certificates/c4adaf93-711f-472a-8f41-862e6d93fa64)
 
+**Boot.dev - Learn Functional Programming in Python** (Completed September 2026)
+[![Boot.dev Learn Functional Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/3b537a13-1583-4540-a243-981224d59ecc.jpeg?v=1789159001)](https://www.boot.dev/certificates/3b537a13-1583-4540-a243-981224d59ecc)
+
 
 ## 🔭 What's Next
 Moving forward through Boot.dev's backend career path, focusing next on algorithms, data structures, and foundational computer science rules.

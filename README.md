@@ -31,6 +31,9 @@ Verification: [![Boot.dev Build a BookBot in Python certificate](https://qvault-
 **Boot.dev - Build an AI Agent in Python** (Completed September 2026)
 [![Boot.dev Build an AI Agent in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/51458df0-7031-43c8-8b6d-9240823c2452.jpeg?v=1789274126)](https://www.boot.dev/certificates/51458df0-7031-43c8-8b6d-9240823c2452)
 
+**Boot.dev Learn Data Structures and Algorithms in Python** (Completed September 2026)
+[![Boot.dev Learn Data Structures and Algorithms in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/37b62974-5dc4-40b1-ac72-4eb8d0835741.jpeg?v=1790140476)](https://www.boot.dev/certificates/37b62974-5dc4-40b1-ac72-4eb8d0835741)
+
 
 ## 🔭 What's Next
 Moving forward through Boot.dev's backend career path, focusing next on algorithms, data structures, and foundational computer science rules.

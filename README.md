@@ -36,4 +36,4 @@ Verification: [![Boot.dev Build a BookBot in Python certificate](https://qvault-
 
 
 ## 🔭 What's Next
-Moving forward through Boot.dev's backend career path, focusing next on algorithms, data structures, and foundational computer science rules.
+Moving forward through Boot.dev's backend career path, focusing next on static site generators, Go, and memory managment.

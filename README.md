@@ -37,6 +37,11 @@ Verification: [![Boot.dev Build a BookBot in Python certificate](https://qvault-
 **Boot.dev Build a Static Site Generator in Python** (Completed September 2026)
 [![Boot.dev Build a Static Site Generator in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/9473a665-45cd-4a32-a548-fcef13f2293b.jpeg?v=1790395930)](https://www.boot.dev/certificates/9473a665-45cd-4a32-a548-fcef13f2293b)
 
+**Boot.dev Learn Memory Management in C** (Completed October 2026)
+[![Boot.dev Learn Memory Management in C certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/145f7240-b500-4629-a3c6-6afa7e1f4cfb.jpeg?v=1791030481)](https://www.boot.dev/certificates/145f7240-b500-4629-a3c6-6afa7e1f4cfb)
+
+**Boot.dev Learn SQL** (Completed October 2026)
+[![Boot.dev Learn SQL certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/043dfdfa-ba02-46a9-b57f-8059e24da2ac.jpeg?v=1791249468)](https://www.boot.dev/certificates/043dfdfa-ba02-46a9-b57f-8059e24da2ac)
 
 ## 🔭 What's Next
-Moving forward through Boot.dev's backend career path, focusing next on static site generators, Go, and memory managment.
+Moving forward through Boot.dev's backend career path, focusing next on static site generators, Go, and memory management.

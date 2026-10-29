@@ -43,5 +43,8 @@ Verification: [![Boot.dev Build a BookBot in Python certificate](https://qvault-
 **Boot.dev Learn SQL** (Completed October 2026)
 [![Boot.dev Learn SQL certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/043dfdfa-ba02-46a9-b57f-8059e24da2ac.jpeg?v=1791249468)](https://www.boot.dev/certificates/043dfdfa-ba02-46a9-b57f-8059e24da2ac)
 
+**Boot.dev Learn Go** (Completed October 2026)
+[![Boot.dev Learn Go certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/2b937e84-4fe7-4592-aac0-93cf9b41201d.jpeg?v=1793241617)](https://www.boot.dev/certificates/2b937e84-4fe7-4592-aac0-93cf9b41201d)
+
 ## 🔭 What's Next
 Moving forward through Boot.dev's backend career path, focusing next on static site generators, Go, and memory management.
